@@ -10,7 +10,7 @@ https://github.com/HanCoding/board_exam_project
  
 IDE(통합개발환경) : vscode
 
-개발 언어 : Java 1.8.0
+개발 언어 : Java 21
 
 프레임워크 : Spring Boot 3.3.1
 
