@@ -8,11 +8,11 @@ https://github.com/HanCoding/board_exam_project
 
 개발환경
  
-IDE(통합개발환경) : vscode
+IDE(통합개발환경) : intelj
 
-개발 언어 : Java 21
+개발 언어 : Java 1.8
 
-프레임워크 : Spring Boot 3.3.1
+프레임워크 : Spring Boot 2.6.5
 
 빌드 : Gradle
 
